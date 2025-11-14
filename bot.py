@@ -1,4 +1,4 @@
-start
+
 import telebot
 from telebot import types
 import json
@@ -203,6 +203,7 @@ def save_new_image(message):
     save_config(cfg)
 
     bot.send_message(message.chat.id, "✔ התמונה התעדכנה בהצלחה!")
+
 
 
 bot.polling(none_stop=True)
