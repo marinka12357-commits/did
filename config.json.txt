@@ -1,6 +1,0 @@
-{
-    "admin_id": 993343024,
-    "options": ["התחלה", "אמצע", "סוף"],
-    "welcome_image": "welcome.jpg",
-    "channel_link": "https://t.me/+huHn8bQYZ8QxMWZk"
-}
